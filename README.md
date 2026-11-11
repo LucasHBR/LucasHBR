@@ -1,6 +1,8 @@
 ## Hi there 👋
 Product Designer -> Product Manager -> Product Builder 
-Just started to learn how to use GitHub to build cool stuff
+
+Starting to learn GitHub to build cool stuff
+
 <!--
 **LucasHBR/LucasHBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
